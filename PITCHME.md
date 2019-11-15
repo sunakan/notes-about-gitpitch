@@ -1,4 +1,9 @@
 # notes-about-gitpitch
+hoge
+fuga
+
+---
+
 ## sample
 
 - [ ] hoge
