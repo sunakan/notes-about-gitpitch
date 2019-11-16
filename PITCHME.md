@@ -24,7 +24,7 @@ sunakan(砂缶)
 #### 進捗(結果から)
 
 - [x] GatsbyJS（p.66-73）、途中だけどdone
-- [ ] k8s(p.1-)
+- [ ] k8s(p.1-143)、全体でp.500くらい
 
 ---
 
@@ -32,13 +32,9 @@ sunakan(砂缶)
 
 - リポジトリ
   - [sunakan/notes-about-gatsby](https://github.com/sunakan/notes-about-gatsby)
-- Netlify
-  - 
 - Netlifyにデプロイ
   - [Netlify](https://5dcf6ff7f0cd9d3daab963b3--blissful-raman-a0e29e.netlify.com/)
-- FrontEndの触り
-- Reactの触り
-- GraphQLの触り
+- FrontEnd(React/GraphQL)の触り
 - Netlifyの存在
   - privateリポジトリでもできる(github.ioはpublic onlyだった気がする)
 - GraphQLってバッククォートが普通。。？
