@@ -32,6 +32,8 @@ sunakan(砂缶)
 
 - リポジトリ
   - [sunakan/notes-about-gatsby](https://github.com/sunakan/notes-about-gatsby)
+- Netlify
+  - 
 - Netlifyにデプロイ
   - [Netlify](https://5dcf6ff7f0cd9d3daab963b3--blissful-raman-a0e29e.netlify.com/)
 - FrontEndの触り
@@ -45,7 +47,7 @@ sunakan(砂缶)
 
 #### 15Stepで習得 Dockerから入るk8s(全3章構成)
 
-- [ ] 第1章Dockerとk8sの基礎知識(p.15-89)
+- [x] 第1章Dockerとk8sの基礎知識(p.15-89)
 - [ ] 第2章コンテナを実践的に理解するレッスン(5ステップ分：p.93-p.156=64pages,約13page/ステップ)
 - [ ] 第3章k8sを実践的に理解するレッスン(10ステップ分：p.159-p.447=289pages,約30page/ステップ)
 - [ ] 付録：学習環境の構築(p.451-p.525=75pages)
@@ -60,3 +62,9 @@ sunakan(砂缶)
 
 - この本で使うOSSの一覧がある
   - Ansible/Elasticsearch/Fluentd/GlusterFS/Grafana/Heapster/Heketi/InfluxDB/Kibana/NFS/Vagrantとか
+
+#### 第2章コンテナ開発を習得する5ステップ(読んだのは最後のステップのみ)
+
+- (k8sが求める)コンテナAPI
+  - Docker SwarmやDocker Composeの機能は使いません、と明記
+
