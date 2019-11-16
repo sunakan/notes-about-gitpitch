@@ -43,5 +43,7 @@ sunakan(砂缶)
 
 ---
 
-#### 15Stepで習得 Dockerから入るk8s
+#### 15Stepで習得 Dockerから入るk8s(全3章構成)
 
+- [ ] Dockerとk8sの基礎知識
+- [ ] Dockerとk8sの
