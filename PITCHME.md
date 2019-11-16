@@ -30,6 +30,10 @@ sunakan(砂缶)
 
 #### GatsbyJS GuideBookでの学び
 
+- リポジトリ
+  - [sunakan/notes-about-gatsby](https://github.com/sunakan/notes-about-gatsby)
+- Netlifyにデプロイ
+  - [Netlify](https://5dcf6ff7f0cd9d3daab963b3--blissful-raman-a0e29e.netlify.com/)
 - FrontEndの触り
 - Reactの触り
 - GraphQLの触り
