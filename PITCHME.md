@@ -57,3 +57,6 @@ sunakan(砂缶)
 - 読み方2：k-eights
 
 - コンテナの性能劣化：[Cedec2014 世界のゲーム業界で選ばれるIBMの高性能クラウドSoftLayerの37p目](https://www.slideshare.net/MahoTakara/cedec2014-ibmsoftlayer)
+
+- この本で使うOSSの一覧がある
+  - Ansible/Elasticsearch/Fluentd/GlusterFS/Grafana/Heapster/Heketi/InfluxDB/Kibana/NFS/Vagrantとか
