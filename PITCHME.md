@@ -49,3 +49,9 @@ sunakan(砂缶)
 - [ ] 第2章コンテナを実践的に理解するレッスン(5ステップ分：p.93-p.156=64pages,約13page/ステップ)
 - [ ] 第3章k8sを実践的に理解するレッスン(10ステップ分：p.159-p.447=289pages,約30page/ステップ)
 - [ ] 付録：学習環境の構築(p.451-p.525=75pages)
+
+#### 第1章Dockerとk8sの基礎知識(p.15-89)
+
+- 読み方[brendandburns(k8sの創設者の1人?)のtweet](https://twitter.com/brendandburns/status/585479466648018944?ref_src=twsrc%5Etfw)
+- 読み方1：koo-ber-net-ees
+- 読み方2：k-eights
