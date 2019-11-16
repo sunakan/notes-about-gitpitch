@@ -55,3 +55,5 @@ sunakan(砂缶)
 - 読み方[brendandburns(k8sの創設者の1人?)のtweet](https://twitter.com/brendandburns/status/585479466648018944?ref_src=twsrc%5Etfw)
 - 読み方1：koo-ber-net-ees
 - 読み方2：k-eights
+
+- コンテナの性能劣化：[Cedec2014 世界のゲーム業界で選ばれるIBMの高性能クラウドSoftLayerの37p目](https://www.slideshare.net/MahoTakara/cedec2014-ibmsoftlayer)
